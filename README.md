@@ -26,7 +26,7 @@ Every demo is fully clickable — no screenshots required.
 
 #### 📌 Currently
 
-Turning the demo apps into full-stack production tools — Flask/SQLite backends and real client deployments.
+🤝 **Deploying POS and ledger systems for local businesses** — tindahan, tubigan, and meatshop trackers running in real operations.
 
 #### 📫 Contact
 
