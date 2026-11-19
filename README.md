@@ -26,7 +26,7 @@ Every demo is fully clickable — no screenshots required.
 
 #### 📌 Currently
 
-🤝 **Deploying POS and ledger systems for local businesses** — tindahan, tubigan, and meatshop trackers running in real operations.
+🤝 Tindahan, tubigan, and meatshop systems are **live in production** — currently **open for new projects**.
 
 #### 📫 Contact
 
