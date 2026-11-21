@@ -2,7 +2,7 @@
 
 **Business Applications Developer** — I build POS systems, digital ledgers, and web apps for real business operations.
 
-🔗 **[View my live portfolio →](https://jongabawag.github.io/myportfolio/)**
+🔗 **[View my live portfolio →](https://jongabawag.github.io/)**
 
 ---
 
@@ -30,4 +30,4 @@ Every demo is fully clickable — no screenshots required.
 
 #### 📫 Contact
 
-The best way to reach me is through [my portfolio site](https://jongabawag.github.io/myportfolio/).
+The best way to reach me is through [my portfolio site](https://jongabawag.github.io/).
